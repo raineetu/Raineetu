@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Neetu Rai</h1>
+<!-- Include Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
 <!-- About -->
-<h3 align="left" style="margin-bottom: 5px;">
+<h3 align="left" style="margin-bottom: 5px; font-weight: normal; font-family: 'Roboto', sans-serif;">
   A dedicated and detail-oriented frontend developer, passionate about creating intuitive and responsive user interfaces with a strong focus on user experience and modern web technologies.
 </h3>
 
-<!-- Email Section with new icon -->
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Mail Icon" height="20" width="20" style="vertical-align: middle; margin-right: 8px;"/>
-  How to reach me: 
+<!-- Email Section with emoji -->
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
+  📧 How to reach me: 
   <a href="mailto:raineetu0070@gmail.com" style="text-decoration: none; color: #000;">
     raineetu0070@gmail.com
   </a>
 </h3>
 
-<!-- LinkedIn Section -->
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="20" width="20" style="vertical-align: middle; margin-right: 8px;"/>
-  Connect with me: 
+<!-- LinkedIn Section with emoji -->
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
+  🔗 Connect with me: 
   <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0A66C2;">
     neetu-rai-6a073b321
   </a>
