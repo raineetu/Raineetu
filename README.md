@@ -23,7 +23,7 @@
   </a>
 </h3>
 
-<hr style="border: solid #ccc; margin-left: 0; width: 100%;">
+<hr style="border: none; height: 0.5px; background-color: #ccc; margin-left: 0; width: 100%;">
 
 
 <h3 align="left">Languages and Tools:</h3>
