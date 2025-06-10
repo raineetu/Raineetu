@@ -77,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 15px;" />
   </a>
 </p>
+<hr style="border: none; height: 0.5px; background-color: #ccc; margin-left: 0; width: 100%;">
 
 
 <p align="center">
