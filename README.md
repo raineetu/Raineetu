@@ -23,15 +23,6 @@
 </h3>
 
 
-<!-- LinkedIn Section -->
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-  📫 Connect with me:
-  <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0A66C2;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" style="vertical-align: middle; margin-right: 5px;"/>
-    neetu-rai-6a073b321
-  </a>
-</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="line-height: 2.5;">
