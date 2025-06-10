@@ -10,7 +10,7 @@
   </a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+<div class="flex flex-row gap-6 items-center overflow-x-auto">
   <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer">
     <div style="width: 70px; height: 70px; border: 1px solid #ccc; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" style="width: 45px; height: 45px;" />
