@@ -63,3 +63,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raineetu&show_icons=true&locale=en&layout=compact" alt="raineetu" />
 </p>
+
+![raineetu's Stats](https://github-readme-stats.vercel.app/api?username=raineetu&theme=dark&show_icons=true&hide_border=true&count_private=true)
