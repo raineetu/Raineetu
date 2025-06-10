@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neetu Rai</h1>
-<h3 align="center">
+<h3 align="left">
   A dedicated and detail-oriented frontend developer, passionate about creating intuitive and responsive user interfaces with a strong focus on user experience and modern web technologies.
 </h3>
 
-<h3 align="center">📫 How to reach me: <a href="mailto:raineetu0070@gmail.com">raineetu0070@gmail.com</a></h3>
+<h3 align="left">📫 How to reach me: <a href="mailto:raineetu0070@gmail.com">raineetu0070@gmail.com</a></h3>
 
-<h3 align="center">📫 Connect with me: <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;"/>
+<h3 align="left">📫 Connect with me: <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="20" style="margin-right: 10px;"/>
   </a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
