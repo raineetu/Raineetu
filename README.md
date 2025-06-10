@@ -1,13 +1,37 @@
 <h1 align="center">Hi 👋, I'm Neetu Rai</h1>
-<h3 align="left">
+<!-- About -->
+<h3 align="left" style="margin-bottom: 5px;">
   A dedicated and detail-oriented frontend developer, passionate about creating intuitive and responsive user interfaces with a strong focus on user experience and modern web technologies.
 </h3>
 
-<h3 align="left">📫 How to reach me: <a href="mailto:raineetu0070@gmail.com">raineetu0070@gmail.com</a></h3>
+<!-- Email Section with new icon -->
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Mail Icon" height="20" width="20" style="vertical-align: middle; margin-right: 8px;"/>
+  How to reach me: 
+  <a href="mailto:raineetu0070@gmail.com" style="text-decoration: none; color: #000;">
+    raineetu0070@gmail.com
+  </a>
+</h3>
 
-<h3 align="left">📫 Connect with me: <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="20" style="margin-right: 10px;"/>
-  </a></h3>
+<!-- LinkedIn Section -->
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="20" width="20" style="vertical-align: middle; margin-right: 8px;"/>
+  Connect with me: 
+  <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0A66C2;">
+    neetu-rai-6a073b321
+  </a>
+</h3>
+
+
+<!-- LinkedIn Section -->
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  📫 Connect with me:
+  <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0A66C2;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" style="vertical-align: middle; margin-right: 5px;"/>
+    neetu-rai-6a073b321
+  </a>
+</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="line-height: 2.5;">
