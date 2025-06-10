@@ -90,5 +90,5 @@
 <hr style="border:   #ccc; margin-left: 0; width: 100%;">
 
 
-![raineetu's Stats](https://github-readme-stats.vercel.app/api?username=raineetu&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![raineetu's Stats](https://github-readme-stats.vercel.app/api?username=raineetu&theme=default&show_icons=true&hide_border=true&count_private=true)
+![raineetu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raineetu&theme=default&hide_border=true)
