@@ -82,13 +82,15 @@
 <hr style="border:   #ccc; margin-left: 0; width: 100%;">
 
 <h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
-📊 GitHub Stats:
+💻 Most Coded Language:
 </h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raineetu&show_icons=true&locale=en&layout=compact" alt="raineetu" />
 </p>
 <hr style="border:   #ccc; margin-left: 0; width: 100%;">
 
-
+<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
+📊 GitHub Stats:
+</h3>
 ![raineetu's Stats](https://github-readme-stats.vercel.app/api?username=raineetu&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![raineetu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raineetu&theme=default&hide_border=true)
