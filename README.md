@@ -60,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 15px;" />
   </a>
 </p> -->
-<p align="left" style="line-height: 2.5; display: flex; flex-wrap: wrap;">
+<p align="left" style="line-height: 2.5; display: flex;">
   <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer" style="margin-right: 25px;">
     <div style="width: 50px; height: 50px; border: 1px solid #ccc; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" style="width: 30px; height: 30px;" />
