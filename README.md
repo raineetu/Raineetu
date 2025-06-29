@@ -10,7 +10,7 @@
 <!-- Email Section with emoji -->
 <h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
   📧 My Portfolio: 
-  <a href="mailto:raineetu0070@gmail.com" style="text-decoration: none; color: #000;">
+  <a href="https://www.raineetu.com.np/" style="text-decoration: none; color: #000;">
     raineetu.com.np
   </a>
 </h3>
