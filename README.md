@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://www.raineetu.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-raineetu.com.np-1D9E75?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/portfolio-raineetu.com.np-1D9E75?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:raineetu0070@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raineetu0070@gmail.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-raineetu0070@gmail.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-neetu--rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-neetu--rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
