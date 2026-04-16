@@ -55,6 +55,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/><br/>
       <sub>Redux</sub>
     </td>
+     <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br/>
+      <sub>Docker</sub>
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -85,15 +89,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>
       <sub>MySQL</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br/>
       <sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br/>
-      <sub>Docker</sub>
     </td>
   </tr>
 </table>
