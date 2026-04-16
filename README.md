@@ -1,103 +1,110 @@
 <h1 align="center">Hi 👋, I'm Neetu Rai</h1>
-<!-- Include Google Font -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
-<!-- About -->
-<h3 align="left" style="margin-bottom: 5px; font-weight: normal; font-family: 'Roboto', sans-serif;">
+<p align="center" style="font-family: sans-serif; font-size: 15px; color: #555; max-width: 600px; margin: auto;">
   A dedicated and detail-oriented frontend developer, passionate about creating intuitive and responsive user interfaces with a strong focus on user experience and modern web technologies.
-</h3>
+</p>
 
-<!-- Email Section with emoji -->
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
-🧰 My Portfolio: 
-  <a href="https://www.raineetu.com.np/" style="text-decoration: none; color: #000;">
-    raineetu.com.np
-  </a>
-</h3>
+<br/>
 
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
-  📧 How to reach me: 
-  <a href="mailto:raineetu0070@gmail.com" style="text-decoration: none; color: #000;">
-    raineetu0070@gmail.com
+<p align="center">
+  <a href="https://www.raineetu.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raineetu.com.np-1D9E75?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
-</h3>
-
-<!-- LinkedIn Section with emoji -->
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
-  🔗 Connect with me: 
-  <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0A66C2;">
-    neetu-rai-6a073b321
+  &nbsp;
+  <a href="mailto:raineetu0070@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raineetu0070@gmail.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</h3>
-
-<hr style="border:   #ccc; margin-left: 0; width: 100%;">
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="line-height: 2.5;">
-  <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/neetu-rai-6a073b321/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-neetu--rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+<br/>
+<hr/>
 
-<hr style="border:   #ccc; margin-left: 0; width: 100%;">
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-<h3 align="left" style="border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: normal; font-family: 'Roboto', sans-serif;">
-💻 Most Coded Language:
-</h3>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/><br/>
+      <sub>Redux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/><br/>
+      <sub>Sass</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/><br/>
+      <sub>Tailwind CSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="Chart.js"/><br/>
+      <sub>Chart.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br/>
+      <sub>Docker</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr/>
+
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raineetu&show_icons=true&locale=en&layout=compact" alt="raineetu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raineetu&theme=default&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raineetu&show_icons=true&locale=en&layout=compact&hide_border=true" height="160" alt="Top Languages" />
 </p>
-<hr style="border:   #ccc; margin-left: 0; width: 100%;">
-
-### 📊 GitHub Stats:
-
-![raineetu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raineetu&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-
