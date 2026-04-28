@@ -2,7 +2,7 @@
 
 <p align="center" style="font-family: sans-serif; font-size: 15px; color: #555; max-width: 600px; margin: auto;">
   A passionate and detail-oriented frontend developer focused on building responsive, user-friendly interfaces. 
-  I enjoy creating modern web applications with a strong emphasis on performance, usability, and clean design.
+  I enjoy creating modern web applications with a strong emphasis on performance, usability, and clean design .
 </p>
 
 <br/>
